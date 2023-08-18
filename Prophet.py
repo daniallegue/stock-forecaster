@@ -7,7 +7,7 @@ Created on 14/08/2023
 
 ''' 
 
-This code uses the XGBoost Regressor interface predict labels from a time series. 
+This code uses the Meta's Prophet model to predict close prices from a stock time series. 
 It is a supervised learning task to use features and make a regression to predict prices of stocks.
 
 '''
